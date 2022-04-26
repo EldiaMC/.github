@@ -1,4 +1,13 @@
-## Hi there 👋
+![Banner](https://images6.alphacoders.com/108/thumb-1920-1082090.jpg)
+
+## ♾️ The first Minecraft MetaVerse
+
+Eldia is the first ever Minecraft server to achieve to create a virtual universe. 
+Inspired by our real word, and expending Minecraft base mechanics fare beyond.
+No matter if you are a builder, a competitor, an entrepreneur...
+In Eldia, you can dou whatever you want, without limitations.
+Enter a parallel universe of infinite possibilities !
+What limits you in the real world is no longer present here.
 
 <!--
 
